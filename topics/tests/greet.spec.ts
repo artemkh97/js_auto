@@ -1,4 +1,4 @@
-const greet = require('../functions/greet');
+import { greet } from '../functions/greet';
 
 describe('Test celsius function', () => {
     
