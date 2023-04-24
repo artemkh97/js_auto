@@ -1,9 +1,12 @@
-function greet() {
-    console.log('Hello!')
-  }
+// function greet() {
+//     console.log('Hello!')
+//   }
 
-setTimeout(function greet() {
-    console.log('Hello!')
-  }, 5000)
+// setTimeout(function greet() {
+//     console.log('Hello!')
+//   }, 5000)
   
-  console.log("I'm being called before greet function.")
+//   console.log("I'm being called before greet function.")
+
+const x = null
+console.log(x)
