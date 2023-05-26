@@ -2,7 +2,7 @@ import axios from "axios";
 
 const options = {
     method: 'GET',
-    url: 'https://catfact.ninja/fact',
+    url: 'https://restcountries.com/v3.1/name/deutschland',
   };
 
 // axios.request(options)
